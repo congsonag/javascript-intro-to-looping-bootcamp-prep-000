@@ -4,6 +4,6 @@ function wrapGift(gift) {
   console.log(`Wrapped ${gift} and andded a bow!`)
 }
 
-for (i = 0; i < gifts.length; i += 2) {
+for (i = 0; i < gifts.length; i++) {
   wrapGift(gifts[i])
 }
