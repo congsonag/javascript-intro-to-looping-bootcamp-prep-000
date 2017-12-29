@@ -8,6 +8,6 @@ for (i = 0; i < gifts.length; i++) {
   wrapGift(gifts[i])
 }
 
-for (var i = 1; i < 100; i +=5) {
+for (var i = 0; i < 100; i +=5) {
   console.log("Hello world the " + i + " time")
 }
