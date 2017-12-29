@@ -20,4 +20,5 @@ function forLoop(array) {
       array.push(`I am #{i} string loops.`)
     }
   }
+  return array
 }
