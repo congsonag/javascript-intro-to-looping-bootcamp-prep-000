@@ -7,3 +7,7 @@ function wrapGift(gift) {
 for (i = 0; i < gifts.length; i++) {
   wrapGift(gifts[i])
 }
+
+for (var = 1; i < 100; i +=5) {
+  console.log("Hello world the " + i + " time")
+}
